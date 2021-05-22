@@ -17,5 +17,5 @@
    `beforeAll(async () => { await page.goto('http://127.0.0.1:5500/settings'); page.setDefaultTimeout(0); });`
    
     All Tests: 
-   [img](images/test.png)
+   ![img](images/test.png)
 
